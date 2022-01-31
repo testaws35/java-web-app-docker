@@ -41,14 +41,14 @@
 	<div class="row">
 		<div class="col-md-8">
 			
-			<h3>Contact @ 8904727768</h3>
+			<h3>Mob: 8904727768</h3>
 		</div>	
 	</div>
 
 
 	<hr>
 	<footer>
-		<p>&copy;2022</p>
+		<p>2022</p>
 	</footer>
 </div>
 
